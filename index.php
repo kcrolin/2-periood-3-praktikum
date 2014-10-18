@@ -12,7 +12,7 @@
 <h2>HTML vorm</h2>
 <span>Kasutajanimi:</span> <input type="text" name="username"><br>
 <span>Salasõna:</span> <input type="password" name="password"><br>
-<input type="submit">
+<input type="submit" name="submit">
 </form> 
 </div>
    </body>
